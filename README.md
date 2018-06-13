@@ -1,2 +1,0 @@
-# HelloWorldTestGit
-GitHub Test
